@@ -2,16 +2,17 @@
 Optimized YOLO model for detecting objects in 10K street scene images, achieving a 0.59 mAP despite label noise. Enhanced data processing and post-processing improved real-time accuracy and efficiency.
 
 
-**Architecture**
+## Architecture
 
 ![Picture2](https://github.com/Saibernard/YOLO-Enhanced-Mastering-Real-Time-Object-Detection-in-Urban-Scenes/assets/112599512/d8a076bf-ddd2-4ec8-8695-2ef76a2efc10)
 
 
-**MAP**
+## MAP
 
 ![map_trained model](https://github.com/Saibernard/YOLO-Enhanced-Mastering-Real-Time-Object-Detection-in-Urban-Scenes/assets/112599512/3e88cd0e-1214-4ca2-a2f8-4fb1fbb7ff21)
 
-**PREDICTIONS**
+## PREDICTIONS
+
 ### Raw predictions
 ![raw predictions](https://github.com/Saibernard/YOLO-Enhanced-Mastering-Real-Time-Object-Detection-in-Urban-Scenes/assets/112599512/f7a23056-4503-4980-a98e-152b56526227)
 
@@ -24,7 +25,7 @@ Optimized YOLO model for detecting objects in 10K street scene images, achieving
 ![prediction after low confidence supression and non max supression](https://github.com/Saibernard/YOLO-Enhanced-Mastering-Real-Time-Object-Detection-in-Urban-Scenes/assets/112599512/bc08ec02-18d0-4fc7-980f-51691875ffea)
 
 
-**PRECISION VS RECALL**
+## PRECISION VS RECALL
 
 ### Person:
 ![person](https://github.com/Saibernard/YOLO-Enhanced-Mastering-Real-Time-Object-Detection-in-Urban-Scenes/assets/112599512/b4d5c522-2828-4879-b05b-7b3459a7f294)
